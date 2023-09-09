@@ -1,0 +1,32 @@
+/*Contact*/
+#contact {
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+#contact:hover {
+  color: blue;
+  text-align: center;
+}
+
+#contact_info:hover {
+  color: blue;
+  text-align: center;
+}
+
+/**/
+#home:hover {
+  color: blue;
+  text-align: center;
+}
+/*Header*/
+#name {
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+
+/*Page*/
+#page {
+  background-color: lightgray;
+}
